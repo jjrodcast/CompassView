@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Compass">
+        <attr name="compass_indicatorSteps" format="integer"/>
+        <attr name="compass_indicatorColor" format="color"/>
+        <attr name="compass_needle" format="reference"/>
+    </declare-styleable>
+</resources>
